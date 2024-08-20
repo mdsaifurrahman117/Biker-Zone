@@ -1,0 +1,8 @@
+main {
+            background-image: linear-gradient(to right, #000000, transparent), url(assets/hero-bg.jpg);;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            height: 100vh;
+            width: 100vw;
+}
