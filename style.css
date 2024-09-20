@@ -1,16 +1,8 @@
 main {
-<<<<<<< HEAD
-            background-image: linear-gradient(to right, #000000, transparent), url(assets/hero-bg.jpg);;
-=======
             background-image: linear-gradient(to right, #000000, transparent), url(assets/hero-bg.jpg);
->>>>>>> 434c584 (hero section updated)
             background-position: center;
             background-repeat: no-repeat;
             background-size: cover;
             height: 100vh;
-<<<<<<< HEAD
-            width: 100vw;
-=======
             width: 100%;
->>>>>>> 434c584 (hero section updated)
 }
